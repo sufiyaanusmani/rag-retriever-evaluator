@@ -1,0 +1,54 @@
+{
+    "overlapping_chunks": [
+        {
+            "chunk": "[248]Imam al-Hadi (a.s) visited his grandfather Amir\u2019ul- Mu\u2019minin\nwith this wonderful ziyarah in which he mentioned the virtues of Imam Ali\n(a.s) and the political and social problems he suffered at that age. We\nmention here some passages from the ziyarah: ...",
+            "relevance_score": 4,
+            "explanation": "This chunk discusses virtues and situations faced by Imam Ali, but it primarily focuses on later events and does not specifically address his early life."
+        },
+        {
+            "chunk": "Many a time, when he wants to enter his room, I say to him, \u2018You do not enter the room until you recite a surah.\u2019...\u2018This young boy grew up in Medina between black walls. How did he obtain this immense knowledge? Glory be to Allah!\u2019",
+            "relevance_score": 6,
+            "explanation": "This chunk touches on Ali's upbringing and knowledge, suggesting a background that influences his character, but lacks detail specifically about his early life."
+        },
+        {
+            "chunk": "When he feared a sedition from the dissolute and feared for you from the hypocrites, ...",
+            "relevance_score": 3,
+            "explanation": "This section is more about the trials faced in leadership rather than his childhood or formative early years, making it less relevant."
+        },
+        {
+            "chunk": "While we were waiting there, Abul Hasan (al-Hadi) came and all the people dismounted ...",
+            "relevance_score": 2,
+            "explanation": "This segment describes events in the later life of Imam Ali's descendant, rather than the early life of Imam Ali himself, resulting in low relevance."
+        }
+    ],
+    "retriever_1_only_chunks": [
+        {
+            "chunk": "Then for your well-known resolution and insight on affairs, he made you the\nemir in the battles and ...",
+            "relevance_score": 3,
+            "explanation": "While it relates to Ali's responses and actions, it does not specifically connect to the early life description, lowering its relevance."
+        },
+        {
+            "chunk": "who had spouted springs of knowledge and wisdom in the earth, was the miracle of knowledge ...",
+            "relevance_score": 4,
+            "explanation": "This mentions knowledge associated with Imam Ali, hinting at earlier accomplishments but lacks specific details on his upbringing."
+        },
+        {
+            "chunk": "O Ali, at the end of time there will be a group of people following you ...",
+            "relevance_score": 3,
+            "explanation": "This chunk speaks to followers of Ali rather than his early life experiences, hence a lower score."
+        }
+    ],
+    "retriever_2_only_chunks": [
+        {
+            "chunk": "### HIS FAMILY\n\nHis first marriage was to Ummul Fazl, ...",
+            "relevance_score": 7,
+            "explanation": "This chunk details Ali's family background and connections, providing context about his life and relationships that inform his early life."
+        },
+        {
+            "chunk": "This was ten years before the commencement of the prophetic\nmission (_bi\u2019that_). For the first six years, ...",
+            "relevance_score": 8,
+            "explanation": "This is highly relevant as it describes Ali's childhood and direct formative experiences that shaped his character."
+        }
+    ],
+    "overall_assessment": "The retriever has performed variably, with some chunks providing relevant information about Hazrat Ali's early life while others veered off into unrelated details. The best chunks were found in Retriever 2, indicating that sources focusing on early context yield more pertinent results."
+}
